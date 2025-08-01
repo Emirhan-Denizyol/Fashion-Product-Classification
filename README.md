@@ -56,11 +56,3 @@ Param Aggarwal, Fashion Product Images Dataset, Kaggle
 🔗 https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset
 
 📄 Lisans: CC0: Public Domain
-
-## 🔧 Kurulum
-
-```bash
-pip install torch torchvision torchaudio
-pip install kagglehub
-pip install rembg
-pip install tqdm keras opencv-python matplotlib
