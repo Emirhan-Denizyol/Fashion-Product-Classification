@@ -52,7 +52,9 @@ Model, `Early Stopping` ile doğrulama kaybına göre otomatik olarak durur. Eğ
 Bu projede kullanılan veri seti:
 
 Param Aggarwal, Fashion Product Images Dataset, Kaggle
+
 🔗 https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset
+
 📄 Lisans: CC0: Public Domain
 
 ## 🔧 Kurulum
