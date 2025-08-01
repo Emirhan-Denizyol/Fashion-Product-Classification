@@ -6,7 +6,7 @@ Bu proje, görsel veriler üzerinden giysi türünü, mevsimini, kullanım amac�
 
 ## 👥 Katkıda Bulunanlar
 
-Bu proje, **Emirhan Bey** ve **Fatih Kaya (https://github.com/fth2745) ** tarafından birlikte geliştirilmiştir.  
+Bu proje, **Emirhan Bey** ve **Fatih Kaya (https://github.com/fth2745)** tarafından birlikte geliştirilmiştir.  
 Her iki geliştirici de görüntü işleme, modelleme ve sistem mimarisi alanlarında aktif katkı sağlamıştır.
 
 ## 🚀 Özellikler
